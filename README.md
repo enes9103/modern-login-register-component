@@ -3,8 +3,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Project Output
-![LOGİN](sign-in.png)
-![REGİSTER](sign-up.png)
+![LOGİN](sign-in.PNG)
+![REGİSTER](sign-up.PNG)
 
 ## Available Scripts
 
