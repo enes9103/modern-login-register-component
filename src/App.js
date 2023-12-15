@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import './App.css'; // Style dosyanızın adına göre import edin
+import './App.css';
 
 function App() {
   const [isActive, setIsActive] = useState(false);
